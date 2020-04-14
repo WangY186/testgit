@@ -14,5 +14,6 @@ public class TestGit {
         System.out.println("=======");
         System.out.println("dev添加");
         System.out.println("GitHub添加");
+        System.out.println("本地推送GitHub");
     }
 }
